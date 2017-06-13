@@ -1,0 +1,18 @@
+{
+  "lerna": "2.0.0-rc.5",
+  "packages": [
+    "packages/*",
+    "examples/*"
+  ],
+  "command": {
+    "bootstrap": {
+      "hoist": true
+    },
+    "publish": {
+      "ignore": [
+        "examples/*"
+      ]
+    }
+  },
+  "version": "0.0.0"
+}

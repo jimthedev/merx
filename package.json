@@ -1,0 +1,23 @@
+{
+  "name": "merx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimthedev/merx.git"
+  },
+  "keywords": [],
+  "author": "Jim Cummins <jimthedev@gmail.com> (http://github.com/jimthedev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimthedev/merx/issues"
+  },
+  "homepage": "https://github.com/jimthedev/merx#readme",
+  "devDependencies": {
+    "lerna": "^2.0.0-rc.5"
+  }
+}
